@@ -1,4 +1,5 @@
 
+
 		       //Bank Management System
 
 #include<conio.h>
@@ -93,8 +94,7 @@ void main()
        cout<<"3. Withdraw:"<<endl;
        cout<<"4. Display:"<<endl;
        cout<<"5. Show:"<<endl;
-       cout<<"6. Transfer:"<<endl;
-       cout<<"7. Exit:"<<endl;
+       cout<<"6. Exit:"<<endl;
        cout<<"Enter Your own Choice:"<<endl;
        cin>>choice;
     switch(choice)
